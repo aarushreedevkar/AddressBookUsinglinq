@@ -6,8 +6,13 @@
         {
             Console.WriteLine("***************Welcome To AddressBook Using Linq*************");
             AddressBookDataTable addressBookDataTable = new AddressBookDataTable();
-            System.Data.DataTable table = addressBookDataTable.createAddressBookTable();
-            addressBookDataTable.editContact(table);
+            DataTable table = addressBookDataTable.createAddressBookTable();
+            // addressBookDataTable.editContact(table);
+            Contact contact = new Contact();
+
+            Console.WriteLine("Enter the first name = ");
+            contact.FirstName = Console.ReadLine();
+            addressBookDataTable.deleteParticularContact(contact);
 
             Console.Read();
         }
