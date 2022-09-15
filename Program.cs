@@ -4,7 +4,9 @@
     {
         public static void Main(String[] args)
         {
-            Console.WriteLine("Welcome to Address Book using Linq");
+            AddressBookDataTable addressBookDataTable = new AddressBookDataTable();
+            addressBookDataTable.createAddressBookTable();
+            Console.Read();
         }
     }
 }
