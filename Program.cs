@@ -10,13 +10,9 @@
 
 
             Contact contact = new Contact();
-            Console.WriteLine("Enter the City  ");
+            Console.WriteLine("Enter the City ");
             contact.City = Console.ReadLine();
-            addressBookDataTable.retrieveContactByCity(contact);
-
-            //Console.WriteLine("Enter the first name = ");
-            //contact.FirstName = Console.ReadLine();
-            //addressBookDataTable.deleteParticularContact(contact);
+            addressBookDataTable.sortContactByGivenCity(contact);
 
             Console.Read();
         }
