@@ -1,0 +1,15 @@
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\bin\Debug\net6.0\AddressBookUsingLinq.exe
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\bin\Debug\net6.0\AddressBookUsingLinq.deps.json
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\bin\Debug\net6.0\AddressBookUsingLinq.runtimeconfig.json
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\bin\Debug\net6.0\AddressBookUsingLinq.dll
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\bin\Debug\net6.0\AddressBookUsingLinq.pdb
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.AssemblyInfo.cs
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.dll
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\refint\AddressBookUsingLinq.dll
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.pdb
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\AddressBookUsingLinq.genruntimeconfig.cache
+C:\Users\test\Desktop\Reviews\AddressBookUsingLinq\AddressBookUsingLinq\obj\Debug\net6.0\ref\AddressBookUsingLinq.dll
